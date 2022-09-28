@@ -8,6 +8,7 @@ Unidad 01
 - [Chuleta de comandos](git-cheat-sheet_es.pdf) :es:
 - [Chuleta de comandos](git-cheat-sheet_en.pdf) :gb:
 
+### Ciclo de vida de una APP en Android
 <img
 src="https://developer.android.com/guide/components/images/activity_lifecycle.png"
 alt="Ciclo de vida"
