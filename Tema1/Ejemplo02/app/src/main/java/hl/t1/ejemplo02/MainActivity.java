@@ -30,5 +30,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         mensaje.setText("He pulsado el botón");
         Log.i(TAG, "Se ha ejecutado el método OnClick");
         Toast.makeText(this,"Texto actualizado", Toast.LENGTH_LONG).show();
+        mensaje.
     }
 }
