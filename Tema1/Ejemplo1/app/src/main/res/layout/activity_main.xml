@@ -7,10 +7,10 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/txtElegir"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="@string/textflag"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -22,6 +22,7 @@
         android:layout_width="194dp"
         android:layout_height="159dp"
         android:layout_marginTop="52dp"
+        android:contentDescription="@string/flagDetail"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -31,7 +32,8 @@
         android:id="@+id/imgb02"
         android:layout_width="192dp"
         android:layout_height="164dp"
-        app:layout_constraintBottom_toTopOf="@+id/textView"
+        android:contentDescription="@string/flagDetail2"
+        app:layout_constraintBottom_toTopOf="@+id/txtElegir"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imgb01"
