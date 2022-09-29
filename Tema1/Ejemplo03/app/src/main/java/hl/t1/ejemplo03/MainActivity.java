@@ -17,8 +17,16 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        Button button = (Button) findViewById(R.id.btn1);
+        button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                // Tercera forma de manejar los eventos del botón
+            }
+        });
     }
 
+    // Segunda forma de manejar los eventos del botón
     public void responder (View view) {
         Button aux;
         switch (view.getId()) {
