@@ -11,3 +11,4 @@
 - Javier 🐧 - [Glyaxz](https://github.com/glyaxz).
 - Juan 🐎 - [Acaluw](https://github.com/Acaluw).
 - Juan Antonio - https://github.com/JuanAntonio21
+- Javier Lama 🤡 - [javilj03](https://github/javilj03)
