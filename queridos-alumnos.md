@@ -10,6 +10,5 @@
 - Sergio - [Sergio](https://github.com/Sergiodj99).
 - Javier 🐧 - [Glyaxz](https://github.com/glyaxz).
 - Juan 🐎 - [Acaluw](https://github.com/Acaluw).
-- Juan Antonio - https://github.com/JuanAntonio21
+- Juan Antonio - [Juan Antonio](https://github.com/JuanAntonio21).
 - Javier Lama 🤡 - [javilj03](https://github/javilj03)
-- Raul🐧 - [XzRaulzX](https://github.com/XzRaulzX)
