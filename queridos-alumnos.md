@@ -12,3 +12,4 @@
 - Juan 🐎 - [Acaluw](https://github.com/Acaluw).
 - Juan Antonio - https://github.com/JuanAntonio21
 - Javier Lama 🤡 - [javilj03](https://github/javilj03)
+- Raul🐧 - [XzRaulzX](https://github.com/XzRaulzX)
