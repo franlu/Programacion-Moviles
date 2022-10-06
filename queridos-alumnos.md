@@ -11,3 +11,4 @@
 - Javier 🐧 - [Glyaxz](https://github.com/glyaxz).
 - Juan 🐎 - [Acaluw](https://github.com/Acaluw).
 - Juan Antonio - https://github.com/JuanAntonio21
+-Álvaro - [alvaromuros27] (https://github.com/alvaromuros27)
