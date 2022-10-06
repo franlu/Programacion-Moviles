@@ -10,3 +10,4 @@
 - Sergio - https://github.com/Sergiodj99
 - Javier 🐧 - [Glyaxz](https://github.com/glyaxz).
 - Juan 🐎 - [Acaluw](https://github.com/Acaluw).
+- Juan Antonio - [Chiki] (https://github.com/JuanAntonio21).
