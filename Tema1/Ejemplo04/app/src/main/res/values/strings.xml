@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejemplo04</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="rbSumar">Sumar</string>
+    <string name="rbRestar">Restar</string>
+    <string name="edtDefault1">Valor 2</string>
+    <string name="edtDefault2">Valor 1</string>
+</resources>
