@@ -24,9 +24,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         btnCalcular = findViewById(R.id.btnCalcular);
         btnCalcular.setOnClickListener(this);
+        // btnCalcular.setEnabled(false);
 
         edNum1 = findViewById(R.id.edTnum1);
-        edNum2 = findViewById(R.id.edTnum1);
+        edNum2 = findViewById(R.id.edTnum2);
 
         rbSumar = findViewById(R.id.rbSumar);
         rbRestar = findViewById(R.id.rbRestar);
@@ -42,24 +43,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         if (rbSumar.isChecked()){
             res = n1 + n2;
-            Toast.makeText(
-                    getApplicationContext(),
-                    "Resultado: " + res,
-                    Toast.LENGTH_SHORT).show();
         } else {
             if (rbRestar.isChecked()){
                 res = n1 - n2;
-                Toast.makeText(
-                        getApplicationContext(),
-                        "Resultado: " + res,
-                        Toast.LENGTH_SHORT).show();
-            } else {
-                Toast.makeText(
-                        getApplicationContext(),
-                        "Selecciona una operación antes de pulsar el botón",
-                        Toast.LENGTH_SHORT).show();
             }
         }
+        Toast.makeText(
+                getApplicationContext(),
+                "Resultado: " + res,
+                Toast.LENGTH_SHORT).show();
         Log.i(LOGCAT,"FINALIZA EL MÉTODO onClick");
     }
 }
