@@ -5,4 +5,4 @@ Escribe un elemento nuevo en la lista con tu nombre y primer apellido, que sea u
 
 1. [Juan Barrera Cuesta](https://github.com/franlu/Programacion-Moviles/blob/main/Tema1/Practicas/01_Banderas/JuanBarreraCuesta_JuegoBanderas.zip)
 2. [Yulei Yan](https://github.com/franlu/Programacion-Moviles/blob/main/Tema1/Practicas/01_Banderas/YanYulei_JuegoBandera.zip)
-
+2. [Jose Antonio Orellana](https://github.com/franlu/Programacion-Moviles/blob/main/Tema1/Practicas/01_Banderas/JoseAntonioOrellanaGomez_JuegoBanderas.zip)
