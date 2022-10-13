@@ -9,5 +9,5 @@ Normas de entrega:
 - En la clase principal de la aplicación se incluye un comentario multilinea con el nombre del alumn@, nombre del módulo y curso.
 
 1. [Juego de Banderas](01_Banderas)
-2. []()
+2. [Calculadora](02_Calculadora)
 3. []()
