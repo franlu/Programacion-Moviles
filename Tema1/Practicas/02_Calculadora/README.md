@@ -7,3 +7,4 @@ Además, debeis añadir un enlace al repositorio donde se encuentra el código.
 1. [Juan Antonio Gonzalez](https://github.com/franlu/Programacion-Moviles/blob/main/Tema1/Practicas/02_Calculadora/JuanAntonioGonzalez_calculadora.zip)
 2. [Sergio Jurado Trillo](https://github.com/Sergio-Jurado/Calculadora)
 3. [Juan Barrera Cuesta](https://github.com/franlu/Programacion-Moviles/blob/main/Tema1/Practicas/02_Calculadora/JuanBarreraCuesta_Calculadora.zip)
+4. [Pedro Moraga Castelar](https://github.com/franlu/Programacion-Moviles/blob/main/Tema1/Practicas/02_Calculadora/Calculator_PedroMoraga.zip)
