@@ -10,4 +10,5 @@ Normas de entrega:
 
 1. [Juego de Banderas](01_Banderas)
 2. [Calculadora](02_Calculadora)
-3. [Juego Memoria](https://lorca.act.uji.es/curso/mit-app-inventor/memory/)
+3. [Juego Memoria](03_Juego_Memoria)
+
