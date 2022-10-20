@@ -8,4 +8,4 @@ Además, debeis añadir un enlace al repositorio donde se encuentra el código.
 
 [formulario](form.png)
 
-1. [Pedro Moraga]([ZZZZ](https://github.com/Dreufter/MobileApps/tree/main/CardsGame))
+1. [Pedro Moraga](https://github.com/Dreufter/MobileApps/tree/main/CardsGame)
