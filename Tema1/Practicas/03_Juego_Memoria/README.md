@@ -10,3 +10,4 @@ Además, debeis añadir un enlace al repositorio donde se encuentra el código.
 
 1. [Pedro Moraga](https://github.com/Dreufter/MobileApps/tree/main/CardsGame)
 2. [Jose Antonio](https://github.com/OteloxESP/JuegoDeCartas)
+3. [Juan Barrera](https://github.com/Acaluw/JuegoMemoria)
