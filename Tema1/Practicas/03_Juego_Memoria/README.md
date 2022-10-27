@@ -13,3 +13,4 @@ Además, debeis añadir un enlace al repositorio donde se encuentra el código.
 3. [Juan Barrera](https://github.com/Acaluw/JuegoMemoria)
 4. [Raul Serra](https://github.com/XzRaulzX/Juego_Memoria)
 5. [Juan Antonio](https://github.com/JuanAntonio21/juegomemoriabn)
+6. [Javier Garcia](https://github.com/Glyaxz/MemoryGame)
