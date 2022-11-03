@@ -8,3 +8,4 @@ Escribe un elemento nuevo en la lista con tu nombre y primer apellido, que sea u
 
 1. [Juan Barrera](https://github.com/franlu/Programacion-Moviles/blob/main/Tema2/Practicas/p1-Intent/JuanBarrera_Tema2Ejercicios.zip)
 2. [Pedro Moraga](https://github.com/franlu/Programacion-Moviles/blob/main/Tema2/Practicas/p1-Intent/Pedro_Moraga_EjerciciosT2.zip)
+3. [Javier Lama](https://github.com/franlu/Programacion-Moviles/blob/main/Tema2/Practicas/p1-Intent/Practica1_JavierLama.zip)
