@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejemplo20</string>
+    <string name="btnLanzar">Lanzar</string>
+    <string name="etCadena">Introduce Texto</string>
+</resources>
