@@ -9,3 +9,4 @@ Normas de entrega:
 - En la clase principal de la aplicación se incluye un comentario multilinea con el nombre del alumn@, nombre del módulo y curso.
 
 1. [p1-Intent](p1-Intent)
+2. [p2-Implicitos](p2-Implicitos)
