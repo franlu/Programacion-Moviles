@@ -1,6 +1,9 @@
 Intent
 ======
 
+Fecha límite para la entrega: **10 de Noviembre a las 15:55h**
+
+
 Para completar la práctica sigue las instrucciones que se indican en el documento PDF que hay en esta carpeta.
 
 
