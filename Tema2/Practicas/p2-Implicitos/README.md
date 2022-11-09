@@ -1,6 +1,8 @@
 Intent Implicitos
 ======
 
+Fecha límite para la entrega: **10 de Noviembre a las 15:55h**
+
 Ejercicios
 
 A. Añadir al juego de cartas un activity antes de entrar al juego. El Activity debe contener una imagen con el logo del juego,
