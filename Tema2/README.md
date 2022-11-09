@@ -1,4 +1,4 @@
 # Tema 2
 
 
-[Entrega de Practias](Practicas)
+[Entrega de Practicas](Practicas)
