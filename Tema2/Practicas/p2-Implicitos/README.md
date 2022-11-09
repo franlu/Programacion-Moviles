@@ -36,4 +36,4 @@ para que funcione, por ejemplo, datos para un correo, coordenadas, número telef
 
 Escribe un elemento nuevo en la lista con tu nombre y primer apellido, que sea un enlace al fichero .zip que habrás subido previamente a este directorio (por ejemplo, **ApellidoNombre.zip**). *Utilizar una nomenclatura apropiada para los nombres de los ficheros*.
 
-1. [Nombre Apellido](url)
+1. Juan Barrera [Juego Memoria](https://github.com/Acaluw/JuegoMemoria) || [LoginSystem](https://github.com/Acaluw/LoginSystem) || [InfoApi](https://github.com/Acaluw/InfoApi) || [Intents Comunitarios](https://github.com/Acaluw/ShorcutApps)
