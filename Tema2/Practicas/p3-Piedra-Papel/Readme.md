@@ -13,3 +13,4 @@ Escribe un elemento nuevo en la lista con tu nombre y primer apellido, que sea u
 9. [Pedro](https://github.com/Dreufter/MobileApps/tree/main/RPSLS)
 10. [Javier Lama](https://github.com/javilj03/Juego_Lagarto_spock)
 11. [YuleY](https://github.com/YuleiYanYY/PiedraPapelTijeras)
+12. [Sergio Jurado](https://github.com/Sergio-Jurado/TheBigBanTheoryGame)
