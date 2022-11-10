@@ -10,4 +10,4 @@ Escribe un elemento nuevo en la lista con tu nombre y primer apellido, que sea u
 5. [Alvaro Muros](https://github.com/alvaromuros27/JuegoPractica)
 6. [Jose Antonio](https://github.com/OteloxESP/Piedra-papel-y-tijeras)
 8. [Juan Barrera](https://github.com/Acaluw/RPSLS_PiedraPapelTijera)
-9. 
+9. [Pedro](https://github.com/Dreufter/MobileApps/tree/main/RPSLS)
