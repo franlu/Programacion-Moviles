@@ -15,3 +15,4 @@ Escribe un elemento nuevo en la lista con tu nombre y primer apellido, que sea u
 4. [Raul Serra](https://github.com/franlu/Programacion-Moviles/blob/main/Tema2/Practicas/p1-Intent/Practica1_RaulAntonioSerra.zip)
 5. [Jose Antonio](https://github.com/franlu/Programacion-Moviles/blob/main/Tema2/Practicas/p1-Intent/Practica1T2_JoseAntonio.zip)
 6. [Juan Antonio](https://github.com/franlu/Programacion-Moviles/blob/main/Tema2/Practicas/p1-Intent/Practica_JuanAntonio.zip)
+6. [Javier Garcia](https://github.com/franlu/Programacion-Moviles/blob/main/Tema2/Practicas/p1-Intent/Practica1_JavierGarcia.rar)
