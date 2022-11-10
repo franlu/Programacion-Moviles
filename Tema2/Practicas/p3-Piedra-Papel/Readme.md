@@ -5,7 +5,7 @@ Escribe un elemento nuevo en la lista con tu nombre y primer apellido, que sea u
 
 1. [Sergio Jurado](https://github.com/Sergio-Jurado/TheBigBanTheoryGame)
 2. [Juan Antonio alias "chiki"](https://github.com/JuanAntonio21/piedrapapeltijera)
-3. [Javi García](https://github.com/javilj03/Juego_Lagarto_spock)
+3. [Javi García](https://github.com/glyaxz/SpockGame)
 4. [Martín Marín](https://github.com/THEliberator03/PiedraPapelTijeraAndroid)
 5. [Alvaro Muros](https://github.com/alvaromuros27/JuegoPractica)
 6. [Jose Antonio](https://github.com/OteloxESP/Piedra-papel-y-tijeras)
@@ -13,4 +13,3 @@ Escribe un elemento nuevo en la lista con tu nombre y primer apellido, que sea u
 9. [Pedro](https://github.com/Dreufter/MobileApps/tree/main/RPSLS)
 10. [Javier Lama](https://github.com/javilj03/Juego_Lagarto_spock)
 11. [YuleY](https://github.com/YuleiYanYY/PiedraPapelTijeras)
-12. [Sergio Jurado](https://github.com/Sergio-Jurado/TheBigBanTheoryGame)
