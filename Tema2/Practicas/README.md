@@ -10,3 +10,4 @@ Normas de entrega:
 
 1. [p1-Intent](p1-Intent)
 2. [p2-Implicitos](p2-Implicitos)
+2. [p3-Piedra-Papel](p3-Piedra-Papel)
