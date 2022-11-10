@@ -38,4 +38,5 @@ Escribe un elemento nuevo en la lista con tu nombre y primer apellido, que sea u
 
 1. [Juan Barrera](https://github.com/franlu/Programacion-Moviles/blob/main/Tema2/Practicas/p2-Implicitos/JuanBarrera_IntentImplicitos.zip)
 2. [Raul Serra](https://github.com/franlu/Programacion-Moviles/tree/main/Tema2/Practicas/p2-Implicitos/Intent_Implicitos_RaulAntonioSerra.zip)
-2. [Javier Garcia](https://github.com/franlu/Programacion-Moviles/blob/main/Tema2/Practicas/p2-Implicitos/Practica2_JavierGarcia.zip)
+3. [Javier Garcia](https://github.com/franlu/Programacion-Moviles/blob/main/Tema2/Practicas/p2-Implicitos/Practica2_JavierGarcia.zip)
+4. [Javier Lama](https://github.com/franlu/Programacion-Moviles/blob/main/Tema2/Practicas/p2-Implicitos/IntentImplicitos_JavierLama.zip)
