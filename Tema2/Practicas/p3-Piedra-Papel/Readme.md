@@ -12,4 +12,4 @@ Escribe un elemento nuevo en la lista con tu nombre y primer apellido, que sea u
 8. [Juan Barrera](https://github.com/Acaluw/RPSLS_PiedraPapelTijera)
 9. [Pedro](https://github.com/Dreufter/MobileApps/tree/main/RPSLS)
 10. [Javier Lama](https://github.com/javilj03/Juego_Lagarto_spock)
-11. [Yulei Yan](https://github.com/YuleiYanYY/PiedraPapelTijeras)
+11. [Yulei Yan](https://github.com/franlu/Programacion-Moviles/blob/main/Tema2/Practicas/p3-Piedra-Papel/YanYulei.zip)
