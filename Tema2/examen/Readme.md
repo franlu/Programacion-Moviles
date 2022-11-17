@@ -17,3 +17,4 @@ Escribe un elemento nuevo en la lista con tu nombre y primer apellido, que sea u
 * [Juan Antonio González](https://github.com/franlu/Programacion-Moviles/blob/main/Tema2/examen/GonzalezAlcazarJuanAntonio.zip)
 * [Raul Serra](https://github.com/XzRaulzX/Examen-PANDROID)
 * [Juan Barrera](https://github.com/franlu/Programacion-Moviles/blob/main/Tema2/examen/JuanBarreraExamen.zip)
+* [Sergio Jurado](https://github.com/Sergio-Jurado/Examen_Android)
