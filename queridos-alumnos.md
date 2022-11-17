@@ -16,3 +16,4 @@
 - Roberto - [rgarcia15](https://github.com/rgarcia15).
 - Yulei - [Yulei](https://github.com/YuleiYanYY).
 - Raul - [XzRaulzX](https://github.com/XzRaulzX)
+- Alejandro -  [alex](https://github.com/Alexconde7)
