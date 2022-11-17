@@ -4,3 +4,9 @@ Crear un repositorio privado, enlazarlo con Android Studio. Añadir como colabor
 
 Se ha de implementar una aplicación con android que represente el juego del tres en raya.
 Se exporta a formato zip el proyecto y se sube al repositorio del profesor (Tema2/examen).
+
+Para completar el examen sigue las instrucciones que se indican en el documento PDF que hay en esta carpeta.
+
+Escribe un elemento nuevo en la lista con tu nombre y primer apellido, que sea un enlace al fichero .zip que habrás subido previamente a este directorio (por ejemplo, ApellidoNombre.zip). Utilizar una nomenclatura apropiada para los nombres de los ficheros.
+
+* [Apellido Nombre](url)
