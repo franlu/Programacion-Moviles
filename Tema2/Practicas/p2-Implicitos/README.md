@@ -7,17 +7,17 @@ Ejercicios
 
 A. Añadir al juego de cartas un activity antes de entrar al juego. El Activity debe contener una imagen con el logo del juego,
 debajo una caja de texto para que el jugador escriba su nombre. Además, un botón para entrar al juego. En la actividad del juego
-debe aparecer el nombre del usuario.
+debe aparecer el nombre del usuario. **(2 puntos)**
 
 B. Hacer una app que permita hacer login al usuario. Un Activity tendra: logo, permite introducir usuario y clave y 
 un botón para acceder a la parte privada de la app. Si las credenciales son correctas le lleva a un Activity con un mensaje
-de bienvenida, en caso contrario a un activity con un mensaje de error y botón para volver a hacer login.
+de bienvenida, en caso contrario a un activity con un mensaje de error y botón para volver a hacer login.**(2 puntos)**
 
 C. Una app que muestre en un Activity un mensaje con la API de la app y otro con la API del dispositivo donde se 
-esta ejecutando.
+esta ejecutando.**(2 puntos)**
 
 D. Un app que lance doce intent implicitos. Cada botón lleva a un Activity donde se piden al usuario los datos básicos
-para que funcione, por ejemplo, datos para un correo, coordenadas, número telefono.
+para que funcione, por ejemplo, datos para un correo, coordenadas, número telefono.**(4 puntos)**
 
 - Activar WI-FI
 - Crear nota
