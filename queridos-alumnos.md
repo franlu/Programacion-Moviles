@@ -17,3 +17,4 @@
 - Yulei - [Yulei](https://github.com/YuleiYanYY).
 - Raul - [XzRaulzX](https://github.com/XzRaulzX)
 - Alejandro -  [alex](https://github.com/Alexconde7)
+- Álvaro - [alvaromuros27](https://github.com/alvaromuros27)
